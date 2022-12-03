@@ -1,0 +1,24 @@
+{
+  "name": "littlelemonmobile",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^6.0.16",
+    "@react-navigation/native-stack": "^6.9.4",
+    "react": "18.0.0",
+    "react-native": "0.69.6",
+    "react-native-safe-area-context": "^4.4.1",
+    "react-native-screens": "^3.18.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/runtime": "^7.12.5",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "metro-react-native-babel-preset": "0.72.3"
+  }
+}
